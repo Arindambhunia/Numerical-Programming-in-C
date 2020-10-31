@@ -1,7 +1,7 @@
 /*Fixed Point Iteration*/
 
 /*Author - Arindam Bhunia*/
-/*Last updated - 31st October*/
+/*Last updated - 31st October, 2020*/
 
 #include<stdio.h>
 #include<math.h>
